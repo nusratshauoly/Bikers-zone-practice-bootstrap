@@ -1,3 +1,19 @@
 .bikerz-zone-light-red{
      background-color: rgba(255, 0, 0, 0.237);
 }
+.rating-icon{
+     width: 20px;
+}
+
+/* evabe kora uchit na   */
+/* .btn-danger{
+     background-color: greenyellow;
+     color: white;
+} */
+
+/* hoy first e custom class use korbo */
+
+/* .btn-bz-danger{
+     background-color: greenyellow;
+     color: white;
+} */
